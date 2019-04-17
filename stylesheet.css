@@ -1,0 +1,18 @@
+h1 {color: midnightblue; font-size: 22pt;} 
+p {color: navy; font-weight: bold;} 
+Body { background: lightyellow; 
+	     color: navy;
+	     font-size: 14pt;
+	   }
+body { 	background: aliceblue;
+	color: steelblue;
+   	font-size: 14pt;
+       	font-family: 'Laila'; 
+ 			    }
+a:hover { color: red }
+
+nav a {	display: inline-block;
+        	border: 2px solid midnightblue;
+        	padding: 10px;
+		margin: 5px;
+		background: mediumturquoise;}
